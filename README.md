@@ -1,5 +1,9 @@
 # EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omicscodeathon/emimr/main/emimr-logo.png" alt="emimr logo" width="300"  />
+</p>
+
 ## Table of Contents
 1.  [About EMImR](#About-EMImR])
 2.  [Implementation and  Operation](#Implementation_and_Operation)
