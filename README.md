@@ -8,8 +8,8 @@
 ## Table of Contents
 1.  [About EMImR](#About-EMImR])
 2.  [Demonstration Video](#Demonstration_Video)
-3.  [Usage Guidelines](#Usage_Guidelines)
-4.  [Implementation and  Operation](#Implementation_and_Operation)
+3.  [Implementation and  Operation](#Implementation_and_Operation)
+4.  [Installation Guides](#Installation_Guide)
 <br>
 
 
@@ -39,8 +39,16 @@ The application's main function is to identify the intersection between genetic 
 
 
 
+## Implementation and  Operation
 
-## Usage Guidelines
+    - platform-independent
+    - all dependencies are installed automatically with the tool
+    - Internet requirement: Only if using an online server
+    - Third-party tools requirement: R studio or an online Server
+    - Pre-requirements: R  installation
+
+
+## Installation Guide
 
 
 **Step 1 :** Install dependencies
@@ -75,16 +83,6 @@ Run the app code by cicking on the "Run APP" button
 
 All dependencies will be installed automaticly and the application's dashboard will appear.
 
-## Implementation and  Operation
 
-    - platform-independent
-    - all dependencies are installed automatically with the tool
-    - Internet requirement: Only if using an online server
-    - Third-party tools requirement: R studio or an online Server
-    - Pre-requirements: R  installation
 
-**Step 5:**
 
-Import Files, define parameters, then click "Submit".
-
-![image](https://github.com/omicscodeathon/emimr/assets/73958439/6df50b3d-21c0-4640-bc99-dab5da4b8669)
