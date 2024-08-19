@@ -32,7 +32,7 @@ The application's main function is to identify the intersection between genetic 
 ## Demonstration Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=cYZ8WOvabJs">
+  <a href="https://www.youtube.com/watch?v=S7r2rj4tWVo">
     <img src="https://github.com/omicscodeathon/emimr/blob/main/assets/emimr_yt.png?raw=true" alt="emimr" width="700" />
   </a>
 </p> 
