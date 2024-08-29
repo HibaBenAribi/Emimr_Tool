@@ -16,6 +16,7 @@
 2.  [Demonstration Video](#Demonstration_Video)
 3.  [Implementation and  Operation](#Implementation_and_Operation)
 4.  [Installation Guides](#Installation_Guide)
+5.  [Citation](#Citation)
 <br>
 
 
@@ -88,6 +89,11 @@ The application's main function is to identify the intersection between genetic 
 Run the app code by cicking on the "Run APP" button
 
 All dependencies will be installed automaticly and the application's dashboard will appear.
+
+
+## Citation
+
+Ben Aribi, H., Ayadi, F., Naitore, C., & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.13453182
 
 
 
