@@ -1,5 +1,11 @@
 # EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes
 
+
+[![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic_2.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13453182.svg)](https://doi.org/10.5281/zenodo.13453182)
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/omicscodeathon/emimr/main/assets/emimr-logo.png" alt="emimr logo" width="300"  />
 </p>
