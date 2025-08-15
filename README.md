@@ -16,7 +16,8 @@
 2.  [Demonstration Video](#Demonstration_Video)
 3.  [Implementation and  Operation](#Implementation_and_Operation)
 4.  [Installation Guides](#Installation_Guide)
-5.  [Citation](#Citation)
+5.  [Licence](#Licence)
+6.  [Citation](#Citation)
 <br>
 
 
@@ -90,6 +91,9 @@ Run the app code by cicking on the "Run APP" button
 
 All dependencies will be installed automaticly and the application's dashboard will appear.
 
+## Licence
+
+The scripts are under the artistic-2.0 license, and the CSV data are under the CC0 public domain waiver.
 
 ## Citation
 
