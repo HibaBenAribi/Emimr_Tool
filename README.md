@@ -93,7 +93,7 @@ All dependencies will be installed automaticly and the application's dashboard w
 
 ## Citation
 
-Ben Aribi, H., Ayadi, F., Naitore, C., & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.13453182
+Ben Aribi, H., Ayadi, F., Naitore, C., & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
 
 
 
