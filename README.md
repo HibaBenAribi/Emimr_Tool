@@ -99,6 +99,8 @@ The scripts are under the artistic-2.0 license, and the CSV data are under the C
 
 Ben Aribi, H., Ayadi, F., Naitore, C., & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
 
+## Note
+Tool Developer / Maintainer : Hiba Ben Aribi
 
-
+Email : benaribi.hiba@gmail.com
 
