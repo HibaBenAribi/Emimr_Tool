@@ -16,8 +16,9 @@
 2.  [Demonstration Video](#Demonstration_Video)
 3.  [Implementation and  Operation](#Implementation_and_Operation)
 4.  [Installation Guides](#Installation_Guide)
-5.  [Licence](#Licence)
-6.  [Citation](#Citation)
+5.  [Resource consumption](#Resource consumption)
+6.  [Licence](#Licence)
+7.  [Citation](#Citation)
 <br>
 
 
@@ -91,6 +92,10 @@ Run the app code by cicking on the "Run APP" button
 
 All dependencies will be installed automaticly and the application's dashboard will appear.
 
+## Resource consumption 
+
+The Shiny application was executed on a Lenovo PC equipped with an Intel® Core™ i5-10210U CPU @ 1.60 GHz, 36 GB of RAM, running a 64-bit Windows 10 operating system. During execution, the application consumed approximately 2.5 GB of memory, utilized up to 24% of CPU, and 1% of GPU resources, as observed in Windows Task Manager.
+
 ## Licence
 
 The scripts are under the artistic-2.0 license, and the CSV data are under the CC0 public domain waiver.
@@ -99,6 +104,8 @@ The scripts are under the artistic-2.0 license, and the CSV data are under the C
 
 Ben Aribi, H., Ayadi, F., Naitore, C., & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
 
+## Note
+Tool Developer / Maintainer : Hiba Ben Aribi
 
-
+Email : benaribi.hiba@gmail.com
 
