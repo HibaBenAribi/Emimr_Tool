@@ -25,11 +25,14 @@ install_bioc <- function(pkgs) {
   }
 }
 bioc_pkgs <- c(
+  "org.Hs.eg.db",    # Homo sapiens
+  "org.Mm.eg.db",    # Mus musculus
   "org.At.tair.db",  # Arabidopsis thaliana
-  "org.Ce.eg.db",    # Caenorhabditis elegans
   "org.Dm.eg.db",    # Drosophila melanogaster
-  "org.Dr.eg.db",    # Danio rerio (zebrafish)
+  "org.Dr.eg.db",    # Danio rerio 
+  "org.Rn.eg.db",    # Rattus norvegicus
   "org.Sc.sgd.db",   # Saccharomyces cerevisiae
+  "org.Ce.eg.db",     # Caenorhabditis elegans
   "clusterProfiler",
   "enrichplot"
 )
@@ -100,3 +103,4 @@ species_list <- c(
   "Saccharomyces cerevisiae",
   "Caenorhabditis elegans"
 )
+
