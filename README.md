@@ -16,8 +16,9 @@
 2.  [Demonstration Video](#Demonstration_Video)
 3.  [Implementation and  Operation](#Implementation_and_Operation)
 4.  [Installation Guides](#Installation_Guide)
-5.  [Licence](#Licence)
-6.  [Citation](#Citation)
+5.  [Resource consumption](#Resource consumption)
+6.  [Licence](#Licence)
+7.  [Citation](#Citation)
 <br>
 
 
@@ -90,6 +91,10 @@ The application's main function is to identify the intersection between genetic 
 Run the app code by cicking on the "Run APP" button
 
 All dependencies will be installed automaticly and the application's dashboard will appear.
+
+## Resource consumption 
+
+The Shiny application was executed on a Lenovo PC equipped with an Intel® Core™ i5-10210U CPU @ 1.60 GHz, 36 GB of RAM, running a 64-bit Windows 10 operating system. During execution, the application consumed approximately 2.5 GB of memory, utilized up to 24% of CPU, and 1% of GPU resources, as observed in Windows Task Manager.
 
 ## Licence
 
