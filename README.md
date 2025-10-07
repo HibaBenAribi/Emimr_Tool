@@ -41,7 +41,8 @@ The application's main function is to identify the intersection between genetic 
 ## Demonstration Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=S7r2rj4tWVo">
+ <!-- Hiba Video: <a href="https://www.youtube.com/watch?v=S7r2rj4tWVo"> -->
+    <a href="https://youtu.be/n7xYWtWkwU4">
     <img src="https://github.com/omicscodeathon/emimr/blob/main/assets/emimr_yt.png?raw=true" alt="emimr" width="700" />
   </a>
 </p> 
@@ -102,10 +103,10 @@ The scripts are under the artistic-2.0 license, and the CSV data are under the C
 
 ## Citation
 
-Ben Aribi, H., Ayadi, F., Naitore, C., & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
+Ben Aribi, H., Ayadi, F., Naitore, C., Guerbouj, S. & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
 
 ## Note
-Tool Developer / Maintainer : Hiba Ben Aribi
+Tool Developer / Maintainer: Hiba Ben Aribi
 
-Email : benaribi.hiba@gmail.com
+Email: benaribi.hiba@gmail.com
 
