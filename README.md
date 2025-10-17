@@ -99,11 +99,11 @@ The Shiny application was executed on a Lenovo PC equipped with an IntelÂ® Coreâ
 
 ## Licence
 
-The scripts are under the artistic-2.0 license, and the CSV data are under the CC0 public domain waiver.
+The tool is under the CC0 public domain licence.
 
 ## Citation
 
-Ben Aribi, H., Ayadi, F., Naitore, C., Guerbouj, S. & Awe, O. I. (2024). EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
+Ben Aribi, H., Ayadi, F., Naitore, C., Guerbouj, S. & Awe, O. I. EMImR: a Shiny Application for Identifying Transcriptomic and Epigenomic Changes. Zenodo. https://doi.org/10.5281/zenodo.16881955
 
 ## Note
 Tool Developer / Maintainer: Hiba Ben Aribi
